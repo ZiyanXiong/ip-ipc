@@ -1,0 +1,42 @@
+# New run directories (every run_experiment invocation writes a fresh runs/run_<stamp>_<id>/)
+/runs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+*~
+tmp/
+temp/
+
+# MATLAB autosaves, caches and crash dumps
+*.asv
+*.autosave
+*.m~
+*.mlx.autosave
+slprj/
+codegen/
+*.slxc
+matlab_crash_dump.*
+java.log.*
+
+# Local editor and agent files
+.vscode/
+.idea/
+*.swp
+*.swo
+.claude/
+CLAUDE.local.md
+.cursor/
+.aider*
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# The preserved reference evidence (reference/: .mat, .csv, .json, .png, .fig, .md, .sha256) is NOT ignored.
+!/reference/
+!/reference/**

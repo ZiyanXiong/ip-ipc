@@ -1,0 +1,21 @@
+frame,ip_main,ip_ver,ip_central_start_main,ip_central_start_ver,ipc_from_ip_state_main,ipc_own_trajectory_main,rows_carried_at_start,rows_central_at_start,k,tau_hat,rows,vertex,source,g_dhat,s_lambda_over_mu,stiffness_ratio_to_central,motion_over_gap_carried,slack_bound_carried,accepted_alpha_eff,binding,motion_over_gap_centered,slack_bound_centered,centered_limiting_vertex,max_closure_centered,motion_over_gap_ipc,ipc_accepted_same_geometry,diagnostic_solves
+24,3,1,3,1,4,4,0,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+25,7,1,8,1,8,7,1,0,0,1,1,1,carried (history),0.601339543934559,0.0500001845064644,0.0500001845064644,-4.02187116830111,0.247397283096042,0.247397283096042,slack positivity,-3.85891822942119,0.257844281958067,1,3.85891822942119,-0.138926478650551,0.573020978082592,4
+26,9,1,10,1,15,7,7,0,0,1,7,5,carried (history),0.0947122567836695,0.0560975041218376,0.0560975041218376,-12.8971764383053,0.0771486693044529,0.0771486693044529,slack positivity,-7.77423387157477,0.12798688802482,5,7.77423387157477,0.69226149459413,0.624506953251682,4
+27,8,1,9,1,16,8,13,0,0,1,13,11,carried (history),0.123547138148871,0.0504086701016382,0.0504086701016382,-10.3039748866284,0.096564676345555,0.096564676345555,slack positivity,-7.35418777839702,0.13529706202537,11,7.35418777839702,0.65638672747558,0.638371079277595,4
+28,6,1,5,1,16,3,17,0,0,1,17,16,carried (history),0.0201525594476116,0.0498847300939443,0.0498847300939443,-12.4331205471746,0.0800281792672,0.0800281792672,slack positivity,-1.08781404962732,0.512446635632527,17,1.94166559171931,0.796653578526815,1,4
+29,3,1,3,1,16,3,17,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+30,3,1,3,1,16,3,17,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+31,3,1,2,1,16,2,17,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+32,3,1,2,1,15,2,17,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+33,3,1,2,1,15,3,17,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+34,4,1,6,1,14,4,17,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+35,4,1,7,1,14,3,17,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+36,3,1,6,1,14,3,15,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+37,4,1,6,1,13,3,10,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+38,4,1,6,1,13,2,7,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+39,4,1,4,1,13,2,5,0,1,0.05,5,17,carried (history),0.0514480106910953,16.8899858735407,16.8899858735407,-1.01446169006097,0.98081574666481,0.98081574666481,slack positivity,-5.2298084438573,0.190255534343458,17,5.2298084438573,0.755563214359258,1,4
+40,3,1,3,1,13,2,4,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+41,2,1,3,1,13,2,3,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+42,2,1,3,1,13,2,3,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0
+43,2,1,3,1,14,2,3,0,NaN,NaN,NaN,NaN,,NaN,NaN,NaN,NaN,NaN,NaN,none: full steps,NaN,NaN,NaN,NaN,NaN,NaN,0

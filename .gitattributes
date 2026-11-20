@@ -1,0 +1,8 @@
+# The preserved evidence must stay byte-exact so that its SHA-256 manifest verifies after a clone on any platform:
+# no line-ending conversion, no diff/merge text handling.
+reference/** -text -diff -merge
+
+# Binary outputs
+*.mat binary
+*.fig binary
+*.png binary

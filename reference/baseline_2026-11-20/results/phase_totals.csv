@@ -1,0 +1,9 @@
+phase,frames,solver,n_frames,main_systems,verification_systems,discarded_systems,fallback_systems,total_full_size_solves,failed_frames,failed_frame_list,wall_s
+free flight,1-23,ip,23,46,23,1,0,69,0,,0.1906306
+free flight,1-23,ipc,23,46,0,0,0,46,0,,0.1032399
+impact,24-43,ip,20,80,20,0,0,100,0,,0.216946
+impact,24-43,ipc,20,67,0,0,0,67,0,,0.0922622
+settling,44-200,ip,157,289,157,0,0,446,0,,0.6754959
+settling,44-200,ipc,157,249,0,0,0,249,0,,0.2894916
+total,1-200,ip,200,415,200,1,0,615,0,,1.0830725
+total,1-200,ipc,200,362,0,0,0,362,0,,0.4849937

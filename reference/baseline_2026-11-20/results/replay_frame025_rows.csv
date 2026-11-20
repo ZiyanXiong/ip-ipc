@@ -1,0 +1,2 @@
+vertex,g_dhat,s_dhat,lambda_Fw,s_lambda_over_mu,lambda_over_s_dhat_Fw,mu_over_s2_dhat_Fw,motion_over_gap_carried,motion_over_gap_centered,motion_over_gap_ipc,slack_bound_carried,slack_bound_centered,ipc_kn_dhat_Fw,source
+1,0.601339543934559,0.601339543934559,0.0831480068304067,0.0500001845064644,0.138271310558375,2.7654160064249,-4.02187116830111,-3.85891822942119,-0.138926478650551,0.247397283096042,0.257844281958067,704.155004106139,carried (history)

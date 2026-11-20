@@ -1,0 +1,8 @@
+{
+  "barrier_min_kn_over_band": 2.1119361038504391E-6,
+  "barrier_kn_positive": true,
+  "mech_grad_relerr": 5.8763809996516724E-9,
+  "mech_hess_relerr": 3.7769343351818909E-9,
+  "mech_projected_min_eig": 0.52758896783869391,
+  "mech_energy_at_rest": 3.4143986585493725E-32
+}
